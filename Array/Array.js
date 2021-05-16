@@ -26,6 +26,7 @@ var newItem2 = fruits.unshift('Strawberry');
 //Romove the final item an array
 var finalItem = fruits.pop();
 
-//Romove the final item an array
+//Romove the firts item an array
 var firtsItem = fruits.shift();
 
+console.log(fruits);
